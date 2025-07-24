@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-mongoose",
+  "version": "1.0.0",
+  "description": "Let's start building the Movie Watchlist &amp; Review App with a simple React frontend and a Node.js + Express + MongoDB backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpn-Goyal/MongoDB-Mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/arpn-Goyal/MongoDB-Mongoose/issues"
+  },
+  "homepage": "https://github.com/arpn-Goyal/MongoDB-Mongoose#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  }
+}
